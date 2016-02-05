@@ -1,6 +1,6 @@
 {
   "name": "insert-hover-class",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Insert a :hover class into the DOM and return the classname",
   "main": "src/insert-hover-class.js",
   "directories": {
