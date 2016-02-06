@@ -42,7 +42,7 @@ h('label', {
 
 ##### hoverObject
 
-See [create-hover-class](https://github.com/chinedufn/create-hover-class#hoverObject)'s definition'
+See [create-hover-class](https://github.com/chinedufn/create-hover-class#hoverobject)'s definition'
 
 ##### [classname]
 
